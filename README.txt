@@ -1,3 +1,7 @@
+Supported OS = macOS
+
+Linux & Windows versions will be created later
+
 ------------------------------------
 Requirements: sshpass, powershell, Devolutions.Powershell module
 ------------------------------------
