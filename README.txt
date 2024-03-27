@@ -16,7 +16,7 @@ INSTALL & CONFIGURE
 ------------------------------------
 
 install using command 
-git clone git@github.com:MaskoSoitron/rdmcli.git
+git clone git@github.com:MaskoFortwana/RDMcli.git
 
 it will create rdmcli folder in current working dir
 then
